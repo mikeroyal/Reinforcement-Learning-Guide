@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/133943722-059d8f26-44d7-40c3-9850-4b3a88d46b01.png">
   <br />
   Reinforcement Learning Guide
 </h1>
@@ -9,11 +9,11 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/133943723-884b942f-f9c6-423e-9298-d1db050a522d.png">
   <br />
 </p>
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/133943970-0e7e15dc-45fe-4531-a273-6f257b728d3e.png">
 
 **Reinforcement Learning, Agent and Environment diagram. Source: [ResearchGate](https://www.researchgate.net/figure/Reinforcement-Learning-Agent-and-Environment_fig2_323867253)**
 
